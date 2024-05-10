@@ -1,5 +1,5 @@
 {
-  "image": "https://github.com/438135/WorditoNFT/blob/main/content/items/Interior.jpg",
+  "image": "https://github.com/438135/WorditoNFT/blob/main/content/items/Interior.webp",
   "name": "El Interior",
   "description": "Additional words on the topic Interior",
   "attributes": [{ "trait_type": "Awesomeness", "value": "Super cool" }]
