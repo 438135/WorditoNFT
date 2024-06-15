@@ -1,0 +1,6 @@
+{
+  "image": "https://raw.githubusercontent.com/438135/WorditoNFT/main/content/items/Verbos.webp",
+  "name": "Los verbos",
+  "description": "Additional words on the topic Los verbos",
+  "attributes": [{ "trait_type": "Topic", "value": "Los verbos" }]
+}

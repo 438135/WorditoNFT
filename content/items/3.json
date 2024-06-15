@@ -2,5 +2,5 @@
   "image": "https://raw.githubusercontent.com/438135/WorditoNFT/main/content/items/Products.webp",
   "name": "Los Productos",
   "description": "Additional words on the topic Productos",
-  "attributes": [{ "trait_type": "Awesomeness", "value": "Super cool" }]
+  "attributes": [{ "trait_type": "Topic", "value": "Los Productos" }]
 }

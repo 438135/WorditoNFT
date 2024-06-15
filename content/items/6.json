@@ -1,0 +1,6 @@
+{
+  "image": "https://raw.githubusercontent.com/438135/WorditoNFT/main/content/items/Transporte.webp",
+  "name": "El transporte y la ciudad",
+  "description": "Additional words on the topic El transporte y la ciudad",
+  "attributes": [{ "trait_type": "Topic", "value": "El transporte y la ciudad" }]
+}

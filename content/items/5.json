@@ -1,0 +1,6 @@
+{
+  "image": "https://raw.githubusercontent.com/438135/WorditoNFT/main/content/items/Profesiones.webp",
+  "name": "Las profesiones",
+  "description": "Additional words on the topic Las profesiones",
+  "attributes": [{ "trait_type": "Topic", "value": "Las profesiones" }]
+}
